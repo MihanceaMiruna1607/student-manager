@@ -1,0 +1,7 @@
+[Student]-(View Details),(View Details)>(Log In), (Log in)<(Invalid Pass)
+[Student]-(View Grades),(View Grades>(Log In),
+[Teacher]-(View Students),(View Students)>(Log In)
+[Teacher]-(Add Students),(Add Students)>(Log In),(Add Students)<(Duplicate Student)
+[Teacher]-(Add Grade),(Add Grade)>(Log In)
+[Admin]-(Create Acc),(Create Acc)<(Duplicate User)
+[Admin]-(Add Subject)
